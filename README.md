@@ -28,3 +28,6 @@ Objects are constrained to stay within a defined area near the center of the sce
 - GLEW
 - ASSIMP
 - GLM
+
+## DEMO LINK
+https://youtu.be/h1RDe2kotdo
